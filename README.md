@@ -1,2 +1,2 @@
 # calculadora-de-hidratación
-Calculadora de hidratación basal - proyecto Programando Paraguay
+Calculadora de hidratación basal - Proyecto Programando Paraguay
