@@ -1,7 +1,11 @@
 @import url('https://googleapis.com/css?family=Monserrat:400,800');
 
 body{
-    background: #f6f5f7;
+    background-image: url("oso5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
     font-family: 'Monserrat', sans-serif;
     color: #361f3a;
 }
@@ -22,7 +26,7 @@ body{
 }
 
 #calculadora{
-    background: white;
+    background: rgb(255, 252, 252);
 /* Líneas para que los Div queden de un lado*/
     width: 50%;
     height: 100%;
@@ -30,12 +34,12 @@ body{
 }
 
 #detalle{
-    background: rgb(57, 107, 0);
+    background:rgb(245, 155, 52);
 /*Ayuda a que los Div se posicionen de forma paralela*/
     width: 50%;
     height: 100%;
     float: left;
-    color: #f6f5f7;
+    color: rgb(255, 255, 255);
 }
 
 .contenido{
@@ -48,7 +52,7 @@ body{
 }
 
 input{
-    width: 70%;
+     width: 70%;
     padding: 12px 15px;
     border: none;
     background-color: #eee;
@@ -60,8 +64,8 @@ button {
       font-weight: bold;
       padding: 12px 45px;
       border-radius: 30px;
-      background-color: #0ba805;
-      border: 1px solid rgb(66, 202, 3);
+      background-color: #e78708;
+      border: 1px solid rgb(202, 156, 3);
       color:#FFFFFF;
       text-transform: uppercase;
       letter-spacing: 1px;
